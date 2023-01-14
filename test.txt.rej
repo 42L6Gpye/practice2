@@ -1,0 +1,6 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -3,3 +3,4 @@
+ eeeee
+ fffff
+ ggggg
++hhhhh
